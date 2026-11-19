@@ -1,0 +1,16 @@
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\bin\Debug\Prakt7.exe.config
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\bin\Debug\Prakt7.exe
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\bin\Debug\Prakt7.pdb
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.csproj.AssemblyReference.cache
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\MainWindow.g.cs
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\App.g.cs
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7_MarkupCompile.cache
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7_MarkupCompile.lref
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\MainWindow.baml
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.g.resources
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.Properties.Resources.resources
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.csproj.GenerateResource.cache
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.csproj.CoreCompileInputs.cache
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.exe
+C:\Users\dashi\OneDrive\Рабочий стол\ТРПО\Prakt7\Prakt7\obj\Debug\Prakt7.pdb

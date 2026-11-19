@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\prakt7\\converts\\discountcolorconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|solutionrelative:prakt7\\converts\\discountcolorconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|c:\\users\\dashi\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0442\u0440\u043F\u043E\\prakt7\\prakt7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|solutionrelative:prakt7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\prakt7\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|solutionrelative:prakt7\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\prakt7\\converts\\discconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|solutionrelative:prakt7\\converts\\discconvert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\prakt7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BD78750-5E98-471B-97BE-DA0308090BF7}|Prakt7\\Prakt7.csproj|solutionrelative:prakt7\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountColorConvert.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Converts\\DiscountColorConvert.cs",
+              "RelativeDocumentMoniker": "Prakt7\\Converts\\DiscountColorConvert.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Converts\\DiscountColorConvert.cs",
+              "RelativeToolTip": "Prakt7\\Converts\\DiscountColorConvert.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:35:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Prakt7\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\MainWindow.xaml",
+              "RelativeToolTip": "Prakt7\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T19:35:41.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DiscConvert.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Converts\\DiscConvert.cs",
+              "RelativeDocumentMoniker": "Prakt7\\Converts\\DiscConvert.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Converts\\DiscConvert.cs",
+              "RelativeToolTip": "Prakt7\\Converts\\DiscConvert.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:35:41.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Models\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "Prakt7\\Models\\HotelBooking.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\Models\\HotelBooking.cs",
+              "RelativeToolTip": "Prakt7\\Models\\HotelBooking.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:35:41.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Prakt7\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\dashi\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0422\u0420\u041F\u041E\\Prakt7\\Prakt7\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Prakt7\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAK2SURBVEhL7ZXPT9NgGMe/fddtpSy26cayARNhYyHGQCaBAwcZF5OduBj\u002BAQ5LJF70D2AeTPSgHog3Eg6ehJMHTExcpglhhpiQkCiJ\u002BxGMMJaNKlkZsext68UtXTdFjHrik7yHPs\u002B3z/ft0zfvw8DCvdVMgnOQ\u002BQGJA8eSu7ERf8KqOQvEGugWHeDtBG9yFWx8ViZXN3fnXnwsdFl1vwuDW68umwP3Y5du6sDc03dljPTwiA0JOT\u002Bn385tvMwmk0mzFE6nE\u002BPj45iYmFAFQdgNh8NqkwAAC4MsmwMPUnte3mGDXKVQqQ6dar3x0c6HAFRd1xs6QggMwwAhBDabLacoyh0AWXMtAGAwl2zq8bWgMCnxtujbT0cY9HC4Hr6A6SEeXwt5ZDKZhq5arWJrawuSJCEYDJZDodCKIAgrY2Njr831GPMDADzf3EscHNXmn23KuNrbiekrIvoEFjZooJQ2dMViEUtLSyiVSpAkCVNTU5Ak6Ykoio/N7Wr5ydmDb1BUHTdG3IgNCegTWECn0DTNKgUA6LqOw8NDpFIpZLPZGYZhHimKEqjnWwwGXBSDooHRHg4Xf\u002Bwchg7DMKxSAIBhGKjVapBlGfl8viudTofS6bSznm8x8NASvMYXdHca4FkdlNK2xVmWhdvths/ng8/ng9frhSzLWF9fx9raWkNna3oLgCiK0f39/WggEADHcdZ0A4fDgf7\u002BfgwPDyMSiSASiUBVVezs7JQ1TVvZ3t4uo90XFAoFlEolnJyctN15HZZl4fF44Pf7G8vlcsF8lNHOgFL607b8CS0Gf5tzg1M5NziV/29QHySyLKNYLJ5pHR8fg2XZpnot82B2djZBCJm32\u002B0gpMX/l1BKUavVPjAMM7O4uPge7Qzi8XiUUhqtVCot98pp8DyPjo6OstPpXF5YWChb8/\u002BE72W0Jte5K\u002ByVAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-11-19T19:35:41.41Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

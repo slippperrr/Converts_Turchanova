@@ -1,0 +1,92 @@
+﻿<Window x:Class="Prakt7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:models ="clr-namespace:Prakt7.Models"
+        xmlns:converters="clr-namespace:Prakt7.Converts"
+        xmlns:local="clr-namespace:Prakt7"
+        mc:Ignorable="d"
+        Title="Hotel_Turchanova" Height="450" Width="800"
+        >
+    <Window.Resources>
+        <models:HotelBooking x:Key="hotel"/>
+        <converters:DiscConvert x:Key="disconv"/>
+        <converters:DiscountColorConvert x:Key="colorconv"/>
+    </Window.Resources>
+    
+    <Window.DataContext>
+        <Binding Source="{StaticResource hotel}"/>
+    </Window.DataContext>
+
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Margin="5">
+
+            <TextBlock Text="Редактир" FontSize="18" FontWeight="Bold" Margin="5"/>
+
+            <StackPanel>
+                <Label>Имя гостя</Label>
+                <TextBox Text="{Binding GuestName, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Цена за ночь (руб.)</Label>
+                <TextBox Text="{Binding PricePerNight, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Количество ночей</Label>
+                <TextBox Text="{Binding Nights, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Скидка (%)</Label>
+                <TextBox Text="{Binding Discount, Converter={StaticResource disconv}, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+        </StackPanel>
+
+        <StackPanel Grid.Column="1" Margin="5">
+
+            <TextBlock Text="Карточка бронирования" FontSize="18" FontWeight="Bold" Margin="5"/>
+
+            <StackPanel>
+                <Label>Имя гостя:</Label>
+                <TextBlock Text="{Binding GuestName}" FontSize="15" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Цена за ночь:</Label>
+                <TextBlock Text="{Binding PricePerNight, StringFormat={}{0:C0}, ConverterCulture=ru-RU}" FontSize="15" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Количество ночей:</Label>
+                <TextBlock Text="{Binding Nights}" FontSize="15" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Размер скидки:</Label>
+                <TextBlock Text="{Binding PriceDiscount, StringFormat={}{0:C0}, ConverterCulture=ru-RU}" FontSize="15" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label>Скидка:</Label>
+                <TextBlock Text="{Binding Discount, StringFormat={}{0:P0}}" FontSize="15" Margin="5"/>
+            </StackPanel>
+
+            <StackPanel>
+                <Label FontWeight="Bold">Итоговая стоимость:</Label>
+
+                <TextBlock Text="{Binding TotalPrice, StringFormat={}{0:C0}, ConverterCulture=ru-RU}"
+                           FontSize="22" FontWeight="Bold" Margin="5" Foreground="{Binding Discount,
+                           Converter={StaticResource colorconv}}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
